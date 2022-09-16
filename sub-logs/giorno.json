@@ -7,10 +7,7 @@
     },
 
     "target": {
-        "CNAME": {
-            "name": "giorno",
-            "value": "giorno420.github.io"
-        }
+        "CNAME": "giorno420.github.io"
     },
 
     "proxied": false

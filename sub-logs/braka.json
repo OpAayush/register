@@ -7,10 +7,7 @@
     },
 
     "target": {
-        "CNAME": {
-            "name": "braka",
-            "value": "tachtas.github.io"
-        }
+        "CNAME": "tachtas.github.io"
     },
 
     "proxied": false

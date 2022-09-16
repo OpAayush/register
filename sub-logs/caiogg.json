@@ -1,5 +1,5 @@
 {
-    "repo": "https://github.com/devcaiogg/devcaiogg.github.io",
+    "repo": "https://github.com/DevCaioGG/DevCaioGG.github.io",
 
     "owner": {
         "username": "DevCaioGG",
@@ -7,10 +7,7 @@
     },
 
     "target": {
-        "CNAME": {
-            "name": "caiogg",
-            "value": "devcaiogg.github.io"
-        }
+        "CNAME": "devcaiogg.github.io"
     },
 
     "proxied": false

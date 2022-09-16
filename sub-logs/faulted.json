@@ -5,10 +5,7 @@
     },
 
     "target": {
-        "CNAME": {
-            "name": "faulted",
-            "value": "faulteddev.github.io"
-        }
+        "CNAME": "faulteddev.github.io"
     },
 
     "proxied": false
